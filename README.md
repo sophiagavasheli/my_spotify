@@ -3,8 +3,8 @@
 Possible goals for this project:
 - Analyzing my own listening habits, like which audio statistics (danceability, speechiness, etc) are most prevalent in my playlists
 - Advanced playlist editor/creator with accompanying GUI
-- Analyzing what components of a song lead it to have the most streams
--     artist popularity (num followers), country, audio stats, release year, song length, genre
+- Analyzing what components of a song lead it to have the most streams/popularity
+-     artist popularity and num followers, country, audio stats, release year, song length, genre
 - Analyzing what properties make an artist have more popularity
 -     amount of total songs, amount of albums, time since first song, genre, country
 
