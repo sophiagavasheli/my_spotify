@@ -22,3 +22,10 @@ Inspiration: https://www.freecodecamp.org/news/spotifys-this-is-playlists-the-ul
 ### 7/25/25
 
 - worked on parsing `spotify_artists_data.json` to extract artist names and save to a csv
+
+### 8/1/25
+
+- extracted names and ids from `spotify_artists_data.json`
+- used ids to access web api and get data on followers, popularity, genres
+- unfortunately lots of artists haven't been classified into genres so won't be able to use that data
+- Next steps: get artists 'this is' playlists so i can average their song audio stats and start analysis

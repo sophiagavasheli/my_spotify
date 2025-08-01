@@ -1,0 +1,499 @@
+spotify_id,name,followers,popularity,genres
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,108555468,97,
+0du5cEVh5yTK9QJze8zA0C,Bruno Mars,73542788,93,
+1HY2Jd0NmPuamShAr6KMms,Lady Gaga,40034150,93,"art pop, pop"
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,121409220,92,soft pop
+1uNFoZAHBGtllmzznpCI3s,Justin Bieber,83635494,97,
+4gzpq5DPGxSnKTe4SA8HAU,Coldplay,59377331,93,
+6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,115047690,95,
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,67653001,93,
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,98472289,100,"reggaeton, trap latino, urbano latino, latin"
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,140665311,99,
+3TVXtAsR1Inumwj472S9r4,Drake,100312081,99,rap
+2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,42906474,94,"hip hop, west coast hip hop"
+1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,27051789,91,"edm, dance"
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,106111030,93,pop
+7CajNmpbOovFoOoasH2HaY,Calvin Harris,23096080,89,edm
+7tYKF4w9nC0nq9CsPZTHyP,SZA,31428567,92,r&b
+04gDigrS5kc9YWfZHwBETP,Maroon 5,45244143,89,pop
+1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,38632505,91,"reggaeton, latin"
+74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,24325419,92,
+246dkjvS1zLTtiykXe5h60,Post Malone,47300000,90,
+0EmeFodog0BfCgMzAIvKQp,Shakira,38774529,89,latin pop
+6jJ0s89eD6GaHleKKya26X,Katy Perry,37692409,88,pop
+6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,46381344,89,pop
+5WUlDfRSoLAfcVSX1WnrxN,Sia,30131268,87,
+7dGJo4pcD2V6oG8kP0tJRR,Eminem,102347335,92,"rap, hip hop"
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,39870166,95,rap
+0TnOYISbd1XYRBk9myaseg,Pitbull,11726365,89,
+1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,9221410,87,
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,30431477,93,rap
+00FQb4jTyendYWaN8pK0wa,Lana Del Rey,49391987,92,
+53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,57772675,90,
+7bXgB6jMjp9ATFy66eO08Z,Chris Brown,27218614,91,r&b
+5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,26235867,86,
+6vWDO969PvNqNYHIOW5v0m,Beyoncé,40667838,89,
+45dkTj5sMRSjrmBSBeiHym,Tate McRae,8392746,91,
+790FomKkXshlbRYZFtlgla,KAROL G,58375637,94,"reggaeton, latin, urbano latino"
+22wbnEMDvgVIAGdFeek6ET,Benson Boone,6402649,89,
+4VMYDCV2IEDYJArk749S6m,Daddy Yankee,37358820,89,"reggaeton, latin"
+0fTSzq9jAh4c36UVb4V7CB,Alex Warren,2184683,90,
+5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,33814741,88,
+64KEffDW9EtZ1y2vBYgq8T,Marshmello,34303745,84,edm
+7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,31080494,89,"indie, garage rock"
+1RyvyyTE3xzB2ZywiAwp0i,Future,22003464,92,rap
+5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,18447483,86,soft pop
+4dpARuHxo51G3z768sgnrY,Adele,65177848,87,soft pop
+6XyY86QOPPrYVGvF9ch6wz,Linkin Park,30774169,92,"nu metal, rap metal, rock, alternative metal"
+69GGBxA162lTqCwzJG5jLp,The Chainsmokers,21177392,84,
+3Isy6kedDrgPYoTS1dazA9,Sean Paul,5193069,86,dancehall
+2wY79sveU1sp5g7SokKOiI,Sam Smith,25964856,85,soft pop
+6LuN9FCkKOj5PcnpouEgny,Khalid,16795957,85,
+1dfeR4HaWDbWqFHLkxsg1d,Queen,54445960,86,"classic rock, rock, glam rock"
+1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,29730374,92,"reggaeton, urbano latino, trap latino, latin"
+55Aa2cqylxrFIXC767Z865,Lil Wayne,17424072,90,"rap, hip hop"
+26VFTg2z8YR0cCuwLzESi2,Halsey,22225301,84,
+4G9NDjRyZFDlJKMRL8hx3S,sombr,1749714,88,
+3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,36337909,86,
+3PhoLpVuITZKcymswpck5b,Elton John,15154242,85,
+4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,35207218,83,
+6LqNN22kT3074XbTVUrhzX,Kesha,8944648,85,
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,33841834,85,
+33qOK5uJ8AR2xuQQAhHump,Teddy Swims,5167107,87,
+08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,13499333,87,"classic rock, yacht rock, soft rock"
+4YRxDV8wJFPHPTeXepOstw,Arijit Singh,154114677,93,"hindi pop, bollywood, desi, bangla pop"
+7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,45283799,85,
+0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,34086574,88,
+699OTQXzgjhIYAHMy9RyPD,Playboi Carti,14556618,90,rage rap
+2FXC3k01G6Gw61bmprjgqS,Hozier,8944432,86,
+0oOet2f43PA68X5RxKobEy,Shreya Ghoshal,31327798,87,"bollywood, hindi pop, desi, kannada pop, marathi pop, bangla pop"
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,47260079,89,
+1i8SpTcr7yvPOmcqrbnVXY,Ozuna,38865354,89,"reggaeton, trap latino, latin, urbano latino"
+0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,52856349,85,
+31TPClRtHm23RisEBtV3X7,Justin Timberlake,15528311,85,
+1r4hJ1h58CWwUQe3MxPuau,Maluma,37646404,88,"reggaeton, latin, urbano latino"
+540vIaP2JwjQb9dm3aArA4,DJ Snake,9195517,82,
+3eVa5w3URK5duf6eyVDbu9,ROSÉ,12358751,85,k-pop
+1wRPtKGflJrBx9BmLsSwlU,Pritam,54883763,91,"bollywood, hindi pop, desi"
+23zg3TcAtWQy7J6upgbUnj,USHER,13432136,84,r&b
+4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",23193278,93,
+21E3waRsmPlU7jZsS13rcj,Ne-Yo,9978274,84,
+137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,12017246,85,rap
+4AK6F7OLvEQ5QYCBNiQWHq,One Direction,39944196,87,
+0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,13104018,82,
+33ScadVnbm2X8kkUqOkC6Z,Don Omar,15378288,86,"reggaeton, urbano latino"
+1mYsTxnqsietFxj1OgoGbG,A.R. Rahman,66834517,84,"tamil pop, kollywood, sufi, bollywood, hindi pop, desi"
+7iK8PXO48WeuP03g8YR51W,Myke Towers,20845233,90,"reggaeton, trap latino, urbano latino"
+4Gso3d4CscCijv0lmajZWs,Don Toliver,7054628,89,
+0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,22809801,86,"funk rock, alternative rock, rock"
+250b0Wlc5Vk0CoUsaCY84M,JENNIE,11203724,86,k-pop
+1URnnhqYAYcrqrcwql10ft,21 Savage,23141843,88,
+0jnsk9HBra6NMjO2oANoPY,Flo Rida,8933851,84,
+329e4yvIujISKGKz1BZZbO,Farruko,16759442,86,"reggaeton, trap latino"
+0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,11286426,87,
+12GqGscKJx3aE4t07u7eVZ,Peso Pluma,22665114,91,"corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, banda, electro corridos"
+1vCWHaC5f2uS3yhpwWbIA6,Avicii,23474996,84,edm
+26dSoYclwsYLMAKD3tpOr4,Britney Spears,17198918,84,pop
+7a0XAaPaK2aDSqa8p3QnC7,Beéle,2330196,93,"latin afrobeats, reggaeton, pop urbano"
+2LRoIwlKmHjgvigdNGBHNo,Feid,18087642,90,"reggaeton, urbano latino"
+2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,5235798,85,
+2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,7895691,85,"edm, trance, big room, house, dance"
+2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,6383000,83,
+7GlBOeep6PqTfFi59PTUUN,Chappell Roan,6661455,85,
+3q7HBObVc0L8jNeTe5Gofh,50 Cent,18148120,86,"east coast hip hop, old school hip hop"
+4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,6493131,87,
+77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,20896213,85,
+6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,24903268,82,"soft pop, pop"
+6tbjWDEIzxoDsBA1FuhfPW,Madonna,8645706,82,
+4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,13246087,95,country
+4Z8W4fKeB5YxbusRsdQVPb,Radiohead,12897246,88,"art rock, alternative rock"
+2hlmm7s2ICUX0LVIhVFlZQ,Gunna,9817659,88,melodic rap
+7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,6926813,85,trap soul
+3m5qlPf2OkihLz3dRYnkPA,Ovy On The Drums,1325541,87,reggaeton
+7oPftvlwr6VrsViSDV7fJY,Green Day,16931161,84,"punk, pop punk"
+1Yj5Xey7kTwvZla8sqdsdE,Cris MJ,6521604,86,"reggaeton chileno, chilean trap, chilean mambo, reggaeton"
+1SupJlEpv7RS2tPNRaHViT,Nicky Jam,20140410,85,"reggaeton, latin"
+67FB4n52MgexGQIG8s0yUH,Lola Young,1277059,82,
+1KCSPY1glIKqW2TotWuXOR,P!nk,18020448,82,
+2h93pZq0e7k5yf4dywlkpM,Frank Ocean,19515257,88,
+13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,16934872,86,rap
+0ys2OFYzWYB5hRDLCsBqxt,Fuerza Regida,17368074,94,"corrido, corridos tumbados, corridos bélicos, música mexicana, sierreño, banda, electro corridos, sad sierreño, dembow belico"
+25uiPmTg16RbhZWAqwLBy5,Charli xcx,5924294,87,"hyperpop, art pop"
+5NGO30tJxFlKixkPSgXcFE,The Police,7309820,80,
+0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,15310740,85,"reggaeton, pop urbano, latin, colombian pop"
+3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,34406489,84,"rock, glam metal, hard rock, classic rock"
+4IWBUUAFIplrNtaOHcJPRM,James Arthur,20497256,83,soft pop
+7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,11778515,82,"latin pop, latin"
+0LcJLqbBmaGUft1e9Mm8HV,ABBA,14456108,84,
+5y8tKLUfMvliMe8IKamR32,d4vd,4348755,84,
+5fMUXHkw8R8eOP2RNVYEZX,Diplo,2790131,81,moombahton
+2R21vXR83lH98kGeO99Y66,Anuel AA,43256084,90,"reggaeton, trap latino, urbano latino, latin"
+2sil8z5kiy4r76CRTXxBCA,The Goo Goo Dolls,3311023,79,
+1U1el3k54VvEUzo3ybLPlM,Kali Uchis,9132695,87,
+711MCceyCBcFnzjGY4Q7Un,AC/DC,31676936,85,"rock, hard rock, classic rock, rock and roll"
+3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,10147938,86,"hip hop, east coast hip hop, rap"
+0z4gvV4rjIZ9wHck67ucSV,Akon,5782141,86,
+67hb7towEyKvt5Z8Bx306c,Empire Of The Sun,1923344,82,
+6olE6TJLqED3rqDCT0FyPh,Nirvana,22702404,85,"grunge, rock"
+3xvaSlT4xsyk6lY1ESOspO,Disney,813611,88,
+20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,10087046,86,
+64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,9716134,80,
+6XkjpgcEsYab502Vr1bBeW,Grupo Frontera,7022187,87,"cumbia norteña, banda, norteño, música mexicana, corrido, corridos tumbados, grupera, corridos bélicos, tejano"
+1mBydYMVBECdDmMfE2sEUO,Sachin-Jigar,6673237,83,"gujarati pop, bollywood, hindi pop, desi, gujarati garba"
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,26653219,86,rap
+2txHhyCwHjUEpJjWrEyqyX,Tom Odell,4232082,80,
+15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,50888904,87,emo rap
+4npEfmQ6YuiwW1GpUmaq3F,Ava Max,7609650,81,
+1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,2809643,81,
+2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,9497341,87,"dark r&b, r&b, trap soul"
+3WrFJ7ztbogyGnTHbHJFl2,The Beatles,30256906,86,"classic rock, psychedelic rock"
+6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,7136688,83,soft rock
+163tK9Wjr9P9DmM0AVK7lm,Lorde,10435447,86,
+5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,25818849,86,"bachata, latin"
+4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,13712340,82,soft pop
+5RTLRtXjbXI2lSXc6jxlAz,Ravyn Lenae,721000,81,"alternative r&b, indie soul"
+07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,12471984,81,
+2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,13621532,79,
+23fqKkggKUBHNkbKtXEls4,Kygo,8645823,82,tropical house
+4E2rKHVDssGJm2SCDOMMJB,Doechii,3092308,82,
+3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,12696852,81,"r&b, neo soul"
+3JhNCzhSMTxs9WLGJJxWOY,Macklemore,2747299,79,
+1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,12618280,79,
+2sSGPbdZJkaSE2AbcGOACx,The Marías,3157531,86,bedroom pop
+70B80Lwx2sxti0M1Ng9e8K,Udit Narayan,20288235,84,"bollywood, hindi pop, desi"
+6ltzsmQQbmdoHHbLZ4ZN25,Lord Huron,2066696,80,
+3SozjO3Lat463tQICI9LcE,Tyla,3190407,82,afrobeats
+3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,25541979,85,
+7FNnA9vBm6EKceENgCGRMb,Anitta,13219623,82,"brazilian pop, funk pop, funk carioca, funk, pagode baiano"
+4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,11605522,81,christmas
+5f7VJjfbwm532GiveGC0ZK,Lil Baby,21032559,89,
+3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,1260227,79,
+3IYUhFvPQItj6xySrBmZkd,Creedence Clearwater Revival,7748591,81,"classic rock, southern rock, country rock"
+58lV9VcRSjABbAbfWS6skp,Bon Jovi,15387483,81,"glam metal, rock"
+52iwsT98xCoGgiGntTiR7K,Quevedo,6128028,87,
+2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,4531637,80,
+6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,11315332,80,
+6U1dV7aL68N7Gb0Naq34V5,REI AMI,199288,90,
+5KKpBU5eC2tJDzf0wmlRp2,RAYE,2452628,80,
+3t5xRXzsuZmMDkQzgOX35S,Robin Schulz,3247925,81,tropical house
+4f7KfxeHq9BiylGmyXepGt,Tanishk Bagchi,5332902,82,"bollywood, hindi pop, desi, desi pop, gujarati garba"
+2fMqTqiTxUDlmcOEPaQSsx,Amitabh Bhattacharya,3617831,82,"bollywood, hindi pop, desi"
+2ye2Wgw4gimLv2eAKyk1NB,Metallica,31344960,86,"metal, thrash metal, rock, heavy metal, hard rock"
+1l7ZsJRRS8wlW3WfJfPfNS,Christina Aguilera,9081497,81,
+6pV5zH2LzjOUHaAvENdMMa,Neton Vega,3201080,90,"corrido, corridos tumbados, corridos bélicos, electro corridos, dembow belico"
+0Wwji82sLA0Hcvtuak3omb,AUDREY NUNA,348954,90,
+4kYSro6naA4h99UJvo89HB,Cardi B,25563988,82,
+7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,15175301,85,"g-funk, west coast hip hop, gangster rap, hip hop, old school hip hop, rap"
+6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,14293670,82,"bollywood, desi, hindi pop"
+2yNNYQBChuox9A5Ka93BIn,HUNTR/X,1248391,90,k-pop
+2DaxqgrOhkeH0fpeiQq2f4,Oasis,11893651,86,"britpop, madchester"
+3DbwFQlvLxRSi2uX8mf81A,Sexyy Red,2204798,81,
+4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,41372246,89,"melodic rap, emo rap"
+6MDME20pz9RveH9rEXvrOM,Clean Bandit,5892206,78,
+78895QQcLtTagD8auJBHfE,Major Lazer,,,
+738wLrAtLtCtFOLvQBXOXp,Major Lazer,6290515,78,moombahton
+74XFHRwlV6OrjEM0A2NCMF,Paramore,9575814,83,"pop punk, emo"
+41MozSoPIsD1dJM0CLPjZF,BLACKPINK,54760571,87,k-pop
+3AA28KZvwAUcZuOKwyblJQ,Gorillaz,13630794,83,
+2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,13241039,84,"reggae, roots reggae"
+40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,6951600,90,"country, red dirt"
+6S2OmqARrzebs0tKUEyXyp,Demi Lovato,27198683,79,
+0PFtn5NtBbbUNbU9EAmIWF,TOTO,3568602,78,"yacht rock, soft rock"
+3Z02hBLubJxuFJfhacLSDc,Bryan Adams,4568205,79,
+3AQRLZ9PuTAozP28Skbq8V,The Script,8701370,79,
+1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,16527704,87,dream pop
+5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,6263590,84,reggaeton
+3Nrfpe0tUJi4K4DXYWgMUX,BTS,80087431,90,k-pop
+22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,15462209,81,"classic rock, rock"
+50co4Is1HCEo8bhOyUWKpn,Young Thug,12057969,87,"rap, melodic rap, trap"
+66ihevNkSYNzRAl44dx6jJ,Carín León,16676483,87,"banda, norteño, sierreño, corrido, grupera, ranchera, sad sierreño, música mexicana"
+2OFij1ppCwYFCOTq7vzafi,bees & honey,31334,80,
+3ebS2RuCq8QeLyndUDmgB5,WizTheMc,183563,80,
+5INjqkS1o8h1imAzPqGZBb,Tame Impala,9068234,84,"neo-psychedelic, indie"
+7f5Zgnp2spUuuzKplmRkt7,Lost Frequencies,3068660,81,tropical house
+4fEkbug6kZzzJ8eYX6Kbbp,KK,21220920,81,"bollywood, hindi pop, desi"
+4D75GcNG95ebPtNvoNVXhz,AFROJACK,4020684,77,"edm, big room"
+1SJOL9HJ08YOn92lFcYf8a,Shankar Mahadevan,12558426,79,"marathi pop, bollywood, devotional, bhajan, desi, tamil dance, hindi pop, tamil pop"
+4fxd5Ee7UefO4CUXgwJ7IP,GIVĒON,4969501,84,r&b
+6nVcHLIgY5pE2YCl8ubca1,JHAYCO,9005973,83,"reggaeton, trap latino, urbano latino"
+5PlfkPxwCpRRWQJBxCa0By,HUGEL,565875,83,"latin house, afro house, techengue"
+1moxjboGR7GNWYIMWsRjgG,Florence + The Machine,7128971,80,baroque pop
+4ScCswdRlyA23odg9thgIO,Jess Glynne,3142247,78,
+19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,5754914,84,"country hip hop, country"
+3y2cIKLjiOlp1Np37WiUdH,Shaboozey,1304052,81,
+0C0XlULifJtAgn6ZNCW2eu,The Killers,7885024,80,alternative rock
+37230BxxYs9ksS7OkZw3IU,Chencho Corleone,1981357,80,reggaeton
+4lxfqrEsLX6N1N4OCSkILp,Phil Collins,7061817,81,soft rock
+7vk5e3vY1uw9plTHJAMwjN,Alan Walker,40979830,82,
+2oSONSC9zQ4UonDKnLqksx,Atif Aslam,37666030,82,"bollywood, hindi pop, desi, sufi, qawwali"
+5uwa6tAMMfNbBFIHiI6NV4,W Sound,688397,80,
+5UJ2sHO2ELrgW6aXeRLTQQ,Chinmayi,4499724,78,"tollywood, tamil pop, telugu pop, kollywood, marathi pop, bollywood, hindi pop"
+1iCnM8foFssWlPRLfAbIwo,Gigi Perez,1398372,80,
+4YLtscXsxbVgi031ovDDdh,Chris Stapleton,8702832,86,"country, outlaw country"
+4r63FhuTkUYltbVAg5TQnk,DaBaby,12780277,81,
+0rvjqX7ttXeg3mTy8Xscbt,Journey,6331649,78,"aor, classic rock"
+09UmIX92EUH9hAK4bxvHx6,Mithoon,10687910,79,"bollywood, hindi pop, desi"
+5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,6499228,81,
+1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,10772796,79,
+73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,14319538,81,
+3aQeKQSyrW4qWr35idm0cy,T-Pain,5599568,83,
+7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,5189889,79,
+46SHBwWsqBkxI7EeeBEQG7,Kodak Black,12181743,83,
+4SsVbpTthjScTS7U2hmr1X,Arcángel,17345967,86,"reggaeton, trap latino, urbano latino"
+1h6Cn3P4NGzXbaXidqURXs,Swedish House Mafia,3918321,79,edm
+1LZEQNv7sE11VDY3SdxQeN,Bee Gees,9082120,80,disco
+4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,9844253,86,"melodic rap, rap"
+4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,18987576,85,melodic rap
+2LIk90788K0zvyj2JJVwkJ,Jack Harlow,4264675,80,
+0L5GV6LN8SWWUWIdBbTLTZ,Shankar-Ehsaan-Loy,7719318,76,"bollywood, sufi, desi, hindi pop"
+0p4nmQO2msCgU4IF37Wi3j,Avril Lavigne,11849196,80,
+6nS5roXSAGhTGr34W6n7Et,Disclosure,2325197,78,house
+3wcj11K77LjEY1PkEazffa,Burna Boy,13093791,85,"afrobeats, afrobeat, afropop, afroswing, dancehall, afropiano"
+1OFOShsIbhy1l5x73yuVyB,Shenseea,1060282,78,"dancehall, soca, afrobeats"
+3gBKY0y3dFFVRqicLnVZYz,Alka Yagnik,19378719,84,"bollywood, hindi pop, desi"
+4LLpKhyESsyAXpc4laK94U,Mac Miller,11962600,85,
+718COspgdWOnwOFpJHRZHS,Luke Combs,13042420,87,country
+4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,12026151,82,
+4obzFoKoKRHIphyHzJ35G3,Becky G,16459876,79,"reggaeton, latin"
+3c0gDdb9lhnHGFtP4prQpn,KATSEYE,2907107,85,k-pop
+7CvTknweLr9feJtRGrpDBy,FloyyMenor,1971210,81,reggaeton chileno
+5H4yInM5zmHqpKIoMNAx4r,Central Cee,9059504,84,"uk drill, drill, uk grime, grime"
+716NhGYqD1jl2wI1Qkgq36,Bizarrap,18017096,81,"argentine trap, trap latino, urbano latino"
+2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,4226556,85,
+5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,12398340,80,"old school hip hop, gangster rap, east coast hip hop, hip hop"
+7Ey4PD4MYsKc5I2dolUwbH,Aerosmith,15707854,79,"classic rock, rock"
+5ZsFI1h6hIdQRw2ti0hz81,ZAYN,23894032,78,
+1pBLC0qVRTB5zVMuteQ9jJ,Lily-Rose Depp,501804,77,
+0ECwFtbIWEVNwjlrfc6xoL,Eagles,11908303,79,"classic rock, yacht rock, soft rock"
+7JBaynR7JFeniONqbnn1U4,Andrew Choi,66912,87,k-pop
+0k17h0D3J5VfsdmQ1iZtE9,Pink Floyd,22316592,83,"progressive rock, psychedelic rock, classic rock, art rock, rock"
+5LHRHt1k9lMyONurDHEdrp,Tyga,7222941,81,
+360IAlyVv4PCEVjgyMZrxK,Miguel,5977883,81,r&b
+0NGAZxHanS9e0iNHpR8f2W,Alok,11261315,80,"brazilian bass, electronic, slap house, electro house"
+6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,15758751,79,
+4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,4513241,78,
+0WwSkZ7LtFUFjGjMZBMt6T,Dire Straits,8617945,81,classic rock
+4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire",4921970,77,disco
+4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,11335855,81,"emo, pop punk"
+78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,4480088,83,bedroom pop
+2gBjLmx6zQnFGQJCAQpRgw,Nelly,3567950,79,
+1G9G7WwrXka3Z1r7aIDjI7,Outkast,3251644,78,"southern hip hop, hip hop"
+1ZwdS5xdxEREPySFridCfh,2Pac,21962437,82,"old school hip hop, gangster rap, west coast hip hop, g-funk, hip hop"
+5FkUhnHQ0KC63549LHHtst,Skillibeng,514430,77,dancehall
+6deZN1bslXzeGvOLaLMOIF,Nickelback,7692292,82,"post-grunge, rock"
+5y2Xq6xcjJb2jVM54GHK3t,John Legend,7864191,78,"soft pop, neo soul"
+02kJSzxNuaWGqwubyUba0Z,G-Eazy,6161232,79,
+181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,10629224,80,
+2hVWBpjLW4Q7fboYz2pVYK,MOLIY,157233,81,alté
+07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,24104556,82,"colombian pop, reggaeton"
+3bO19AOone0ubCsfDXDtYt,Myles Smith,1191369,80,
+6vXTefBL93Dj5IqAWq6OTv,French Montana,5756822,77,
+2qoQgPAilErOKCwE2Y8wOG,GloRilla,2368131,82,
+60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,15160179,79,"edm, electronica, progressive house"
+2oQX8QiMXOyuqbcZEFsZfm,El Alfa,4073682,81,"dembow, urbano latino, latin"
+57vWImR43h4CaDao012Ofp,Steve Lacy,6151410,81,
+4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,10896738,77,latin
+35l9BRT7MXmM8bv2WDQiyB,beabadoobee,6088843,82,bedroom pop
+2jzc5TC5TVFLXQlBNiIUzE,a-ha,2799680,76,"new wave, synthpop"
+28gNT5KBp7IjEOQoevXf9N,Camilo,20259597,82,"colombian pop, pop urbano"
+77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,2771059,77,"yacht rock, soft rock"
+0GM7qgcRCORpGnfcN2tCiB,Tainy,2985383,80,reggaeton
+4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,10675714,83,"french house, electronic, electro"
+0elWFr7TW8piilVRYJUe4P,Natanael Cano,20167298,90,"corridos tumbados, corrido, corridos bélicos, sad sierreño, sierreño, electro corridos, música mexicana, banda"
+6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,14644291,82,"old school hip hop, g-funk, gangster rap, west coast hip hop, hip hop, rap"
+7Gi6gjaWy3DxyilpF1a8Is,Junior H,26393493,89,"corridos tumbados, corrido, corridos bélicos, sad sierreño, sierreño, música mexicana, banda"
+5eAWCfyUhZtHHtBdNk56l1,System Of A Down,13378169,84,"nu metal, metal, alternative metal, rap metal, rock"
+2jSGzJw0ebJLu7OLVSOcBP,Plan B,6273927,82,reggaeton
+3eqjTLE0HfPfh78zjh6TqT,Bruce Springsteen,7145560,80,
+0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,7575316,81,
+5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,9382998,85,"metal, heavy metal, rock, stoner rock, doom metal, hard rock"
+7o95ZoZt5ZYn31e9z1Hc0a,Natasha Bedingfield,1885479,76,
+11pXvO7wYuzRWYONDOBd33,Danny Chung,18975,85,k-pop
+10exVja0key0uqUkk6LJRT,Vance Joy,3425169,77,folk pop
+0BJ2EjOqcfgFvlZXNKrNbE,Saja Boys,829701,85,k-pop
+21451j1KhjAiaYKflxBjr1,Zion & Lennox,8173230,80,"reggaeton, latin"
+1qto4hHid1P71emI6Fd8xi,Aventura,10283785,82,bachata
+1eDupbD9kIx8UaZlzcBG5r,samUIL Lee,3905,85,k-pop
+2RYonYiVhhzBz82UFXOvEN,KEVIN WOO,47919,85,k-pop
+5bXNU0MAF2HSqyFPhYtscH,Neckwav,46342,85,k-pop
+5eumcnUkdmGvkvcsx1WFNG,Tito Double P,9143521,90,"corrido, corridos tumbados, corridos bélicos, electro corridos, dembow belico, música mexicana"
+0c173mlxpT3dSFRgMO8XPh,Big Sean,11484713,79,
+3l9G1G9MxH6DaRhwLklaf5,Oscar Maydon,6155865,86,"corridos tumbados, corrido, corridos bélicos, electro corridos, dembow belico, sad sierreño"
+5EvFsr3kj42KNv97ZEnqij,Shaggy,2429756,77,reggae
+0cGUm45nv7Z6M6qdXYQGTX,Kehlani,8359907,81,
+5CiGnKThu5ctn9pBxv7DGa,benny blanco,1522946,79,
+6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,10745558,82,melodic rap
+0sSxphmGskGCKlwB9xa6WU,Himesh Reshammiya,11750461,76,"bollywood, hindi pop, desi"
+77ziqFxp5gaInVrF2lj4ht,Sech,12044907,82,"reggaeton, urbano latino"
+2kxP07DLgs4xlWz8YHlvfh,NIKI,7543878,82,
+6U3ybJ9UHNKEdsH7ktGBZ7,JID,2140433,79,
+0u6GtibW46tFX7koQ6uNJZ,Topic,304780,78,
+7okwEbXzyT2VffBmyQBWLz,Maná,13151571,82,"rock en español, latin rock, mexican rock, latin pop"
+6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,6042795,77,soft pop
+19LIHDDSHBD5NyYHI3gpzB,Shilpa Rao,3224016,77,"bollywood, hindi pop, desi"
+4MVyzYMgTwdP7Z49wAZHx0,Lynyrd Skynyrd,5745136,78,"southern rock, classic rock, rock"
+2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,7986341,83,
+4bthk9UfsYUYdcFyqxmSUU,Tears For Fears,3975880,76,"new wave, synthpop"
+4cAERazLlAzVGA10ORWaUP,Manoj Muntashir,2067859,78,"bhajan, hindi pop, bollywood, devotional"
+1dVygo6tRFXC8CSWURQJq2,Sonu Nigam,21852206,80,"kannada pop, bollywood, sandalwood, hindi pop, desi, marathi pop"
+3E12tRURRvPfHz0hAMCFYc,Omar Courtz,1412990,85,
+53A0W3U0s8diEn9RhXQhVz,Keane,3833465,77,
+3eDT9fwXKuHWFvgZaaYC5v,Sunidhi Chauhan,17365662,78,"bollywood, desi, hindi pop"
+11kt6ggsdxvI8MhyeSMKom,CYRIL,408583,81,
+1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,8712131,83,"reggaeton, urbano latino"
+7j6DKwmjbxvpQO8h914uEz,Ryan Castro,4154507,82,reggaeton
+2myuqB0gKAo75dE2eSWgzt,Silent Addy,21056,76,shatta
+4wLXwxDeWQ8mtUIRPxGiD6,Marc Anthony,10703949,81,"salsa, merengue, bachata, latin, latin pop"
+3FUY2gzHeIiaesXtOAdB7A,Train,4494538,76,soft pop
+7n2Ycct7Beij7Dj7meI4X0,TWICE,22386817,87,k-pop
+0Q8NcsJwoCbZOHHW63su5S,Mora,7596625,86,"urbano latino, trap latino, reggaeton"
+2uYWxilOVlUdk4oV9DvwqK,Mitski,10690890,83,
+2qk9voo8llSGYcZ6xrBzKx,Kings of Leon,5691020,79,
+46pWGuE3dSwY3bMMXGBvVS,Rema,7838065,80,"afrobeats, afrobeat, afropop, afropiano"
+1SyKki7JI1AZNKwgNMkn25,Sachet-Parampara,2671498,77,"bhajan, hindi pop, devotional, bollywood"
+5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,3338214,82,
+5SCDfg1YoEfI5gFtXqEWah,ATLXS,314689,82,"phonk, brazilian phonk"
+7EQ0qTo7fWT7DPxmxtSYEc,Bastille,5647794,76,
+4QFG9KrGWEbr6hNA58CAqE,Alemán,6381118,83,"mexican hip hop, latin hip hop, electro corridos"
+5GnnSrwNCGyfAU4zuIytiS,Mohit Chauhan,13483647,77,"bollywood, hindi pop, sufi, desi"
+0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,12129458,77,
+3tJnB0s6c3oXPq1SCCavnd,Marco Antonio Solís,8381822,81,"grupera, mariachi, ranchera, latin pop"
+5LfGQac0EIXyAN8aUwmNAQ,The Offspring,6451512,80,"punk, skate punk"
+0lAWpj5szCSwM4rUMHYmrr,Måneskin,10480163,80,
+4W91bbPB2CTSsHwt7eqNl7,Javed Ali,12056902,75,"sufi, bollywood, hindi pop, qawwali, desi, desi pop"
+3WGpXCj9YhhfX11TToZcXP,Troye Sivan,9379565,78,
+4e0nWw2r4BoQSKPQ2zpU13,Ray Dalton,113079,76,
+20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,12651818,79,emo
+7uIbLdzzSEqnX0Pkrb56cR,Yo Yo Honey Singh,32423263,80,"bollywood, hindi hip hop, desi, hindi pop, punjabi pop"
+6WOdPJmexxFINcKMkP2jMG,Sachet Tandon,6944113,78,"bhajan, hindi pop, devotional, bollywood, desi pop"
+2IMZYfNi21MGqxopj9fWx8,Rels B,9699401,85,"urbano latino, trap latino"
+16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,5819077,80,"folk pop, indie folk"
+5nGIFgo0shDenQYSE0Sn7c,Evanescence,5799496,78,alternative metal
+0NIIxcxNHmOoyBx03SfTCD,Tinashe,3049456,78,alternative r&b
+4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,41011614,86,"tamil pop, kollywood, tamil dance, tamil hip hop, tollywood, telugu pop"
+43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,10779599,80,"rockabilly, rock and roll"
+7jy3rLJdDQY21OgRLCZ9sD,Foo Fighters,12750898,79,"rock, post-grunge, alternative rock, grunge"
+6qxpnaukVayrQn6ViNvu9I,BigXthaPlug,1802022,84,southern hip hop
+7vXDAI8JwjW531ouMGbfcp,TINI,9055896,80,latin pop
+7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,8491306,78,latin
+5JZ7CnR6gTvEMKX4g70Amv,Lauv,6722852,78,
+2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,10290306,83,"trap soul, r&b"
+6S0dmVVn4udvppDhZIWxCr,Sean Kingston,3693318,75,
+5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,8177155,82,latin pop
+0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,8607448,80,"reggaeton, urbano latino, latin"
+0Y6dVaC9DZtPNH4591M42W,TV Girl,11651329,83,
+7pbDxGE6nQSZVfiFdq9lOL,Rex Orange County,6606413,79,bedroom pop
+1TA5sGRlKUJXBN4ZyJuDIX,Blessd,7909971,84,"reggaeton, urbano latino"
+1E6arsXf5Fgsnv9YpSzjpE,Parampara Tandon,3532027,77,"bhajan, devotional, hindi pop, bollywood"
+36QJpDe2go2KgaRleHCDTp,Led Zeppelin,15702947,80,"classic rock, rock, hard rock, rock and roll"
+57LYzLEk2LcFghVwuWbcuS,Summer Walker,7787804,80,r&b
+51Blml2LZPmy7TTiAg47vQ,U2,13402649,80,rock
+3Sz7ZnJQBIHsXLUSo0OQtM,Mac DeMarco,7692087,83,"indie, lo-fi indie"
+2loEsOijJ6XiGzWYFXMIRk,Adam Port,314383,79,"afro house, house"
+5p9HO3XC5P3BLxJs5Mtrhm,Djo,2152376,77,
+3qsKSpcV3ncke3hw52JSMB,Young Miko,4362936,80,trap latino
+2gsggkzM5R49q6jpPvazou,Jessie J,12131761,75,
+7FBcuc1gsnv6Y1nwFtNRCb,My Chemical Romance,9993820,83,"emo, pop punk"
+6Sbl0NT50roqWvy746MfVf,Gabito Ballesteros,5629855,84,"corrido, corridos tumbados, corridos bélicos, música mexicana, sad sierreño, electro corridos, banda, sierreño"
+5wJ1H6ud777odtZl5gG507,Vishal Mishra,8896578,79,"bollywood, hindi pop"
+6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,2153400,79,
+4KWTAlx2RvbpseOGMEmROg,R.E.M.,5235938,76,"jangle pop, alternative rock, rock"
+3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,7634944,84,r&b
+2YRyPiW98bpkARAS4B3OQP,Dei V,2116161,82,"trap latino, urbano latino"
+7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,7019485,78,"motown, classic soul, soul"
+4yiQZ8tQPux8cPriYMWUFP,Gwen Stefani,6957215,77,
+5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,2657244,74,
+0y59o4v8uw5crbN9M3JiL1,Badshah,29837931,78,"bollywood, desi, hindi pop, desi hip hop, hindi hip hop, desi pop"
+4bL2B6hmLlMWnUEZnorEtG,Felix Jaehn,1310608,76,tropical house
+3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,2679937,79,
+0pePYDrJGk8gqMRbXrLJC8,Luis R Conriquez,8613335,86,"corrido, corridos bélicos, corridos tumbados, electro corridos, dembow belico, banda, sad sierreño, sierreño, música mexicana"
+1tqysapcCh1lWEAc9dIFpa,Jubin Nautiyal,20889604,79,"bhajan, hindi pop, bollywood, devotional, desi"
+4DWuml4Jf6K81b5rAPwMb6,Clementine Douglas,53316,77,
+165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,7676251,81,"nu metal, rap metal, alternative metal, rap rock"
+7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,12322316,76,
+09cKncAQn28NqTUORLMwSR,Ariis,440042,81,"phonk, brazilian phonk"
+7cYEt1pqMgXJdq00hAwVpT,Chase Atlantic,10053022,83,
+47zz7sob9NUcODy0BTDvKx,Sade,4887659,80,
+7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,7717732,78,
+6oMuImdp5ZcFhWP0ESe6mG,Migos,14509199,78,trap
+3koiLjNrgRTNbOwViDipeA,Marvin Gaye,5861478,76,"motown, classic soul, soul, northern soul, quiet storm"
+05etL4pzWd6TSv1x5WrlG3,Faheem Abdullah,380765,79,
+2feDdbD5araYcm6JhFHHw7,Labrinth,3566578,77,
+5ENS85nZShljwNgg4wFD7D,Gabry Ponte,689969,78,"slap house, italo dance"
+2FKWNmZWDBZR4dE5KX4plR,Diljit Dosanjh,33978574,79,"bhangra, punjabi pop, punjabi hip hop, desi, bollywood"
+0zOcE3mg9nS6l3yxt1Y0bK,The Fray,4247372,76,
+3UTF2no3muGdiFXVujl94i,Kapo,822720,82,latin afrobeats
+7HCqGPJcQTyGJ2yqntbuyr,Amit Trivedi,10524616,76,"bollywood, hindi pop, desi, gujarati garba"
+2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,3183955,74,
+6CXEwIaXYfVJ84biCxqc9k,Vishal Dadlani,12019601,76,"bollywood, desi, hindi pop"
+4eq1q0o9XPyNq9RG3fNDD1,Yorghaki,162086,80,
+61JrslREXq98hurYL2hYoc,Lata Mangeshkar,22570520,81,"ghazal, bollywood, bhajan, hindi pop, marathi pop"
+6Xb4ezwoAQC4516kI89nWz,Imogen Heap,1052829,79,
+3TOqt5oJwL9BE2NG9MEwDa,Disturbed,7509354,78,"metal, nu metal, alternative metal, rap metal, hard rock, rock"
+7gW0r5CkdEUMm42w9XpyZO,Laufey,7602161,84,
+6Q192DXotxtaysaqNPy5yR,Amy Winehouse,9648579,79,
+0XwVARXT135rw8lyw1EeWP,Christian Nodal,15963154,82,"banda, ranchera, mariachi, norteño, música mexicana, grupera"
+6IRouO5mvvfcyxtPDKMYFN,Foreigner,3707623,76,"aor, classic rock"
+3MZsBdqDrRTJihTHQrO6Dq,Joji,10310298,80,
+3l0CmX0FuQjFxr8SK7Vqag,Clairo,6314434,82,bedroom pop
+4phGZZrJZRo4ElhRtViYdl,Jason Mraz,7308248,75,"soft pop, acoustic pop"
+12Chz98pHFMPJEknJQMWvI,Muse,8363074,80,"alternative rock, rock"
+57nPqD7z62gDdq37US9XJR,Arcane,734351,80,
+3GBSge8pq7mpezUQl0GAOA,Kausar Munir,999530,75,"bollywood, hindi pop, desi, qawwali, sufi"
+0xliTEbFfy5HQHvsTknTkX,Alphaville,1037031,74,synthpop
+3yY2gUcIsjMr8hjo51PoJ8,The Smiths,7444724,81,"new wave, madchester, jangle pop"
+3hcs9uc56yIGFCSy9leWe7,Lil Durk,9151943,83,"chicago drill, drill"
+3ZxZ03fj3tXBZHZWzvaLSM,Neeti Mohan,5296113,74,"bollywood, hindi pop, desi"
+5he5w2lnU9x7JFhnwcekXX,Skrillex,7625923,78,"dubstep, edm, electro, electronic"
+3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,7715491,80,"reggaeton, trap latino, urbano latino"
+7gP3bB2nilZXLfPHJhMdvc,Foster The People,4006392,75,
+5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,8897140,83,"trap latino, urbano latino"
+19ra5tSw0tWufvUp8GotLo,George Michael,5510770,76,
+6Dd3NScHWwnW6obMFbl1BH,Daya,1807922,74,
+1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,3433166,80,"reggaeton, urbano latino, trap latino, argentine trap"
+0vR2qb8m9WHeZ5ByCbimq2,Reik,9595728,79,latin pop
+1VJ0briNOlXRtJUAzoUJdt,FISHER,1143690,80,"tech house, house"
+2mpeljBig2IXLXRAFO9AAs,Dido,2087854,76,
+5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,10291386,78,
+0GOx72r5AAEKRGQFn3xqXK,GIMS,6967260,84,"french rap, french r&b, french pop, pop urbaine"
+3DeOmVSmpv7WknXoo1OS8p,Alleh,294031,79,
+3dN9MQpjIyNxyeRfz4EDZe,Rochak Kohli,1570143,75,"bollywood, hindi pop, desi"
+0SwO7SWeDHJijQ3XNS7xEE,MGMT,3507690,78,indie
+6sFIWsNpZYqfjUpaCgueju,Carly Rae Jepsen,5115842,74,
+7me0S5Z40qVWj3gzyK8aC3,Mc Livinho,7905727,77,"funk, brazilian funk, funk carioca"
+1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,8022879,79,argentine trap
+2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,12194742,76,
+3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,26039643,80,"argentine trap, trap latino, reggaeton"
+3y24n3XhZ96wgwRXjvS17T,Coolio,1757423,72,"west coast hip hop, g-funk"
+6FBDaR13swtiWwGhX1WQsP,blink-182,9130664,80,"pop punk, punk, rock, skate punk, emo"
+1IFAU4mznUcfPVP9z2c24N,Daecolm,24831,77,afro house
+5YFS41yoX0YuFY39fq21oN,Bob Sinclar,719387,75,"french house, disco house"
+2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,8613717,79,argentine trap
+757aE44tKEUQEqRuT6GnEB,Roddy Ricch,11625222,79,melodic rap
+4vhNDa5ycK0ST968ek7kRr,Carlos Vives,6704452,77,"colombian pop, vallenato, latin, latin pop"
+26WKgv73kRHD0gEDKD1i8j,Keinemusik,504065,79,"afro house, melodic house, house"
+5ndkK3dpZLKtBklKjxNQwT,B.o.B,2222687,77,
+7bu3H8JO7d0UbMoVzbo70s,The Cure,6480376,78,"new wave, post-punk, gothic rock, darkwave"
+5bQ3wFgekuIMIcWJuxkqLK,Chrystal,68045,77,
+2r7VkUHfCtvbQ7UMF3WUe4,YoungBoy Never Broke Again,,,
+7wlFDEWiM5OoIAt8RSli8b,YoungBoy Never Broke Again,14374881,86,
+3MHaV05u0io8fQbZ2XPtlC,Prince Royce,8543972,78,"bachata, latin"
+3QSQFmccmX81fWCUSPTS7y,Dean Lewis,3984328,79,
+3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,10878831,75,christmas
+4oLeXFyACqeem2VImYeBFe,Fred again..,2060542,80,"stutter house, house"
+2nszmSgqreHSdJA3zWPyrW,Luis Miguel,19770335,85,"mariachi, bolero, latin pop, villancicos"
+32vWCbZh0xZ4o9gkz4PsEU,Dolly Parton,2901427,75,"country, classic country"
+5gZhfbckaWo89OzDSk3gdT,Jaani,1194912,76,"punjabi pop, hindi pop, bhangra, desi, bollywood"
+2yLzlEFtIS0Q9UkyBZdQA7,Jessie Murph,1479861,83,
+47mIJdHORyRerp4os813jD,League of Legends,2080315,80,
+164Uj4eKjl6zTBKfJLFKKK,JVKE,5532986,77,
+76fuWYgIf3TVIopTs3vaJ6,Amaal Mallik,4980806,73,"bollywood, hindi pop, desi"
+6XjgqvaVLUib6lCerbZrYD,Stryv,24290,75,afro house
+3KV3p5EY4AvKxOlhGHORLg,Jeremih,7108182,77,
+71hjb5G92mGoKRSAW3Cj00,Anu Malik,6098031,68,"bollywood, hindi pop"
+2SHhfs4BiDxGQ3oxqf0UHY,Roxette,2722686,77,swedish pop
+3mIj9lX2MWuHmhNCA7LSCW,The 1975,7864802,80,
+5L1lO4eRHmJ7a0Q6csE5cT,LISA,12413878,80,k-pop
+4S9EykWXhStSc15wEx8QFK,Céline Dion,10022003,78,variété française
+7hQmAXAzWI6D350VTgkKTG,Arash,296795,75,afro house
+6q29t5RuXxlBuqIZsOMQss,Priya Saraiya,2287953,74,"gujarati pop, bollywood, hindi pop, desi, gujarati garba"
